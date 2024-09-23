@@ -1,0 +1,78 @@
+body {
+  background-color: #0a0a23;
+  font-family: Verdana;
+}
+
+h1 {
+  width: 75%;
+  margin-right: auto;
+  margin-top: 2px;
+  margin-left: auto;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.form-container {
+  width: 85%;
+  margin: auto;
+  padding: 1px;
+  border-color: #002ead;
+  border-radius: 10px;
+  background-color: #fff;
+  align-items: top;
+  justify-content: center;
+  min-height: 140px;
+}
+
+form {
+  width: 75%;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-bottom: 1rem;
+  display: flex-row;
+}
+
+.input-container {
+  width: 75%;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-left: auto;
+  display: flex;
+  gap: 8px;
+}
+
+.text-input-label {
+  font-size: 1.25rem;
+}
+
+.text-input {
+  font-size: 1.25rem;
+  width: 100%;
+}
+
+button {
+  font-size: 1rem;
+  color: #fff;
+  background-color: #0a0a23;
+}
+
+#result {
+  font-size: 1.25rem;
+  width: 50%;
+  margin: auto;
+}
+
+.palindrome-def-container {
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+  width: 85%;
+  margin: auto;
+}
+
+.palindrome-def {
+  padding: 10px;
+}
