@@ -1,0 +1,24 @@
+# Spreadsheet
+- Functional programming concepts
+- Dynamically update page based on user input
+- Infix operators
+- Math
+  - ceil()
+  - floor()
+  - random()
+- Array methods:
+  - every()
+  - fill()
+  - filter()
+  - forEach()
+  - from()
+  - includes()
+  - map()
+  - reduce()
+  - replace()
+  - slice()
+  - some()
+  - sort()
+  - split()
+- Regex
+- Set
